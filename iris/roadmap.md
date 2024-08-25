@@ -26,6 +26,8 @@
 
 - TBD ( ML & Non ML Based Filters )
 
+- Live Transcription
+
 - Background
 
   - Blur
